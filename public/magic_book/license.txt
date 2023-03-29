@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magic book
+* source:	https://sketchfab.com/3d-models/magic-book-6d9c6516bbb24644a034abb473409d00
+* author:	HexaGon3D (https://sketchfab.com/hexagon3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magic book" (https://sketchfab.com/3d-models/magic-book-6d9c6516bbb24644a034abb473409d00) by HexaGon3D (https://sketchfab.com/hexagon3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

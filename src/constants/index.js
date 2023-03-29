@@ -28,15 +28,15 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "О нас",
   },
   {
     id: "work",
-    title: "Work",
+    title: "Работы",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Контакты",
   },
 ];
 
@@ -122,10 +122,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Разработка и поддержка веб-приложений с использованием React.js и других связанных технологий",
+      "Сотрудничество с кросс-функциональными командами, включая дизайнеров, менеджеров по продуктам и других разработчиков, для создания высококачественных продуктов.",
+      "Внедрение адаптивного дизайна и обеспечение кросс-браузерной совместимости.",
+      "Участие в обзорах кода и предоставление конструктивных отзывов другим разработчикам.",
     ],
   },
   {
@@ -135,10 +135,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Разработка и поддержка веб-приложений с использованием React.js и других связанных технологий",
+      "Сотрудничество с кросс-функциональными командами, включая дизайнеров, менеджеров по продуктам и других разработчиков, для создания высококачественных продуктов.",
+      "Внедрение адаптивного дизайна и обеспечение кросс-браузерной совместимости.",
+      "Участие в обзорах кода и предоставление конструктивных отзывов другим разработчикам.",
     ],
   },
   {
@@ -148,10 +148,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Разработка и поддержка веб-приложений с использованием React.js и других связанных технологий",
+      "Сотрудничество с кросс-функциональными командами, включая дизайнеров, менеджеров по продуктам и других разработчиков, для создания высококачественных продуктов.",
+      "Внедрение адаптивного дизайна и обеспечение кросс-браузерной совместимости.",
+      "Участие в обзорах кода и предоставление конструктивных отзывов другим разработчикам.",
     ],
   },
   {
@@ -161,10 +161,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Разработка и поддержка веб-приложений с использованием React.js и других связанных технологий",
+      "Сотрудничество с кросс-функциональными командами, включая дизайнеров, менеджеров по продуктам и других разработчиков, для создания высококачественных продуктов.",
+      "Внедрение адаптивного дизайна и обеспечение кросс-браузерной совместимости.",
+      "Участие в обзорах кода и предоставление конструктивных отзывов другим разработчикам.",
     ],
   },
 ];
@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Я думал, что невозможно сделать сайт таким же красивым, как наш продукт, но Рик доказал, что я ошибался.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Я никогда не встречал веб-разработчика, который бы так заботился об успехе своих клиентов, как Рик.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "После того, как Рик оптимизировал наш сайт, наш трафик увеличился на 50%. Мы не можем отблагодарить их достаточно!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -200,7 +200,7 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Веб-платформа, которая позволяет пользователям искать, бронировать и управлять арендой автомобилей у различных поставщиков, предоставляя удобное и эффективное решение для транспортных нужд.",
     tags: [
       {
         name: "react",
@@ -221,7 +221,7 @@ const projects = [
   {
     name: "Job IT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Веб-платформа, которая позволяет пользователям искать, бронировать и управлять арендой автомобилей у различных поставщиков, предоставляя удобное и эффективное решение для транспортных нужд.",
     tags: [
       {
         name: "react",
@@ -242,7 +242,7 @@ const projects = [
   {
     name: "Trip Guide",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Веб-платформа, которая позволяет пользователям искать, бронировать и управлять арендой автомобилей у различных поставщиков, предоставляя удобное и эффективное решение для транспортных нужд.",
     tags: [
       {
         name: "nextjs",
